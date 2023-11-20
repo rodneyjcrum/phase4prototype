@@ -21,6 +21,7 @@ public class EffortConsoleInterface extends Application {
     	} catch(Exception e) {
 			e.printStackTrace();
 		}
+    	
 
     }
 }
